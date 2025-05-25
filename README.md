@@ -25,3 +25,4 @@
 ---
 
 This project showcases applied financial modeling for early-stage travel startups. It’s designed to help forecast growth, understand cash runway, and evaluate business viability under real-world conditions.
+Notion: https://cultured-wanderer-6ce.notion.site/David-Gapinski-Data-Travel-Analytics-Portfolio-1fe223828d4880b4b4e3df0372f38645
